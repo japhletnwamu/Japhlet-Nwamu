@@ -1,11 +1,13 @@
 <!-- <h3 align="center">Hi there! 👋  I'm Japhlet Nwamu </h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=8C43EA&vCenter=true&width=300&height=40&lines=Hello+&+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Japhlet+Nwamu+a+Developer+Advocate)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&random=false&width=435&lines=Hello+%26+Welcome+%F0%9F%91%8B%F0%9F%8F%BE;I'm+Japhlet+Nwamu" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=300&height=40&lines=Hello+&+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Japhlet+Nwamu+a+Developer+Advocate)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="//twitter.com/japhletnwamu">Twitter</a>  •  
   <a href="//linkedin.com/in/japhletnwamu">LinkedIn</a>  •  
-  <a href="//developer.microsoft.com/en-us/advocates/japhlet-nwamu"> ✨ I'm a Developer Advocate </a>
+  <a href="//developer.microsoft.com/en-us/advocates/japhlet-nwamu"> I'm a Developer Advocate </a>
 </p>
 
 # 💬 Ask me about 
