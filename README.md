@@ -1,6 +1,6 @@
 <!-- <h3 align="center">Hi there! 👋  I'm Japhlet Nwamu </h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4500&color=8C43EA&vCenter=true&width=300&height=42&lines=Hello+&+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Japhlet+Nwamu+a+Developer+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=8C43EA&vCenter=true&width=300&height=40&lines=Hello+&+Welcome!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Japhlet+Nwamu+a+Developer+Advocate)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="//twitter.com/japhletnwamu">Twitter</a>  •  
