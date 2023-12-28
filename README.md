@@ -21,7 +21,7 @@
 
 
 # ⚡️ What I do
-- 👨🏾‍💻 Developer Advocate @ [Microsoft](https://aka.ms/japhletnwami)
+- 👨🏾‍💻 Developer Advocate @ [Microsoft](https://developer.microsoft.com/en-us/advocates/japhlet-nwamu)
 - 👨🏾‍🏫 Supporting and Mentoring Startups @ [Microsoft for Startups Founders Hub](https://www.aka.ms/JoinMSFoundersHub/)
 - 📝 Technical Writer @ [Microsoft Techcommunity](https://aka.ms/MSFTTechCommunity)
 
